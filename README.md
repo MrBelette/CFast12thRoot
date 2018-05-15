@@ -1,2 +1,3 @@
 # CFast12thRoot
-C version for fast x^(1/12)
+C version of fast x^(1/12)
+Uses gcc __builtin_clzl()
